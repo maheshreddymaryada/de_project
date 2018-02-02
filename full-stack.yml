@@ -149,3 +149,4 @@ services:
     restart: unless-stopped
     depends_on:
       - zoo1
+      - zoo2
